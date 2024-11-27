@@ -1,0 +1,9 @@
+.image-list{
+    margin: 10px;
+    columns: 5 100px;
+    column-gap: 20px;
+}
+img{
+    width: 100%;
+    margin-bottom: 10px;
+}
